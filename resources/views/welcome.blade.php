@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                   HostingOnHeroku
+                    Hosting On Heroku
                 </div>
 
                 <div class="links">
